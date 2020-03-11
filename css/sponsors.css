@@ -1,0 +1,5 @@
+ /*By Moca*/
+
+div.gallery {margin: 5px;border: 0.1vw solid #ccc;border-radius:0.5vw;width: auto;background-color: white;vertical-align: top;display: inline-block;background-color:#ffffff;}div.gallery:hover {border: 0.1vw solid #777}div.gallery img {width: auto;height: auto;padding:1vw;}.desc {padding: 0.5vw;text-align: center;background-color: #495D9A;border-radius: 0 0 0.5vw 0.5vw;width:auto;height:20%;-webkit-transition-duration: 0.2s;transition-duration: 0.2s;cursor: pointer;}.desc:hover{background-color:#354370;}
+ 
+  /*THIS IS A COMPRESSED VERSION OF THE FILE! This allows it to potentially load faster. For a clean, more understandable version of the file, look in public_html/css/clean.*/
