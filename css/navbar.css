@@ -1,0 +1,5 @@
+ /*By Moca*/
+
+ul.nav {list-style-type: none;display:table;margin:auto;margin-left:10vw;padding: 0;background-color: #333;z-index: 2;top: 0;width:79.95vw;white-space:nowrap;position: fixed;}li.navl {display: inline-block;border-right: 0.105vw solid #bbb;width:10vw;font-size:1.3vw;vertical-align: middle;}.navi {display: block;color: white;text-align: center;padding: 1vw 1vw;text-decoration: none;align-items: center;-webkit-transition-duration: 0.2s;transition-duration: 0.2s;cursor: pointer;}.navi:hover {background-color: #2a3559;}#active {background-color: #3b4b7d;}li:last-child {border-right: none;}.SynTech {width:7.5vw;height:auto;vertical-align:middle;}
+
+ /*THIS IS A COMPRESSED VERSION OF THE FILE! This allows it to potentially load faster. For a clean, more understandable version of the file, look in public_html/css/clean.*/
